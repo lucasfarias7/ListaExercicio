@@ -1,0 +1,6 @@
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.exe.config
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.csprojAssemblyReference.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.pdb

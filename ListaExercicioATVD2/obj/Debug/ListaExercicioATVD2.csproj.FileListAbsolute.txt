@@ -1,0 +1,5 @@
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\bin\Debug\ListaExercicioATVD2.exe.config
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\bin\Debug\ListaExercicioATVD2.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\bin\Debug\ListaExercicioATVD2.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\obj\Debug\ListaExercicioATVD2.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\obj\Debug\ListaExercicioATVD2.pdb
