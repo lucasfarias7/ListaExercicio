@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaExercicioATVD4", "List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaExercicioATVD5", "ListaExercicioATVD5\ListaExercicioATVD5.csproj", "{437DBDF1-22B5-4A4F-9502-D093F003FCF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaExercicioATVD6", "ListaExercicioATVD6\ListaExercicioATVD6.csproj", "{F8D30C6F-1A92-4BD0-BE0B-FED25E3184BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{437DBDF1-22B5-4A4F-9502-D093F003FCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437DBDF1-22B5-4A4F-9502-D093F003FCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437DBDF1-22B5-4A4F-9502-D093F003FCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D30C6F-1A92-4BD0-BE0B-FED25E3184BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D30C6F-1A92-4BD0-BE0B-FED25E3184BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D30C6F-1A92-4BD0-BE0B-FED25E3184BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D30C6F-1A92-4BD0-BE0B-FED25E3184BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

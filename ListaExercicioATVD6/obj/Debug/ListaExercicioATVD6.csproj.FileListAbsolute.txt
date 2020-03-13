@@ -1,0 +1,6 @@
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\bin\Debug\ListaExercicioATVD6.exe.config
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\bin\Debug\ListaExercicioATVD6.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\bin\Debug\ListaExercicioATVD6.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\obj\Debug\ListaExercicioATVD6.csprojAssemblyReference.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\obj\Debug\ListaExercicioATVD6.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD6\obj\Debug\ListaExercicioATVD6.pdb
