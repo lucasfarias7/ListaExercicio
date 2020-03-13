@@ -4,3 +4,9 @@ C:\Users\Positivo\OneDrive\Documentos\Visual Studio 2019\Cursos\ListaExercicio\L
 C:\Users\Positivo\OneDrive\Documentos\Visual Studio 2019\Cursos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.csprojAssemblyReference.cache
 C:\Users\Positivo\OneDrive\Documentos\Visual Studio 2019\Cursos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.exe
 C:\Users\Positivo\OneDrive\Documentos\Visual Studio 2019\Cursos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\bin\Debug\ListaExercicioATVD3.exe.config
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\bin\Debug\ListaExercicioATVD3.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\bin\Debug\ListaExercicioATVD3.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.csprojAssemblyReference.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD3\obj\Debug\ListaExercicioATVD3.pdb

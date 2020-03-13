@@ -3,3 +3,4 @@ C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\bin\De
 C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\bin\Debug\ListaExercicioATVD2.pdb
 C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\obj\Debug\ListaExercicioATVD2.exe
 C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\obj\Debug\ListaExercicioATVD2.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\ListaExercicio\ListaExercicioATVD2\obj\Debug\ListaExercicioATVD2.csprojAssemblyReference.cache
