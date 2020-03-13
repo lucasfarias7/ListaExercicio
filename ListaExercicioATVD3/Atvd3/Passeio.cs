@@ -24,6 +24,7 @@ namespace ListaExercicioATVD3.Atvd3
 
         public override double PrecoLocacao()
         {
+            // 60 é o valor fixo que eu definir para o carro utilitario e os 20 é o descontado pela locadora.
             this.ValorFixoPas = 60 - 20;
             return base.PrecoLocacao() + this.ValorFixoPas;
         }

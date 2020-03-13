@@ -11,6 +11,15 @@ namespace ListaExercicioATVD1
     {
         static void Main(string[] args)
         {
+            /*
+                Crie uma classe Principal e uma classe de
+                teste que contenham métodos para as
+                seguintes rotinas:
+
+                A. Imprima todos os números pares entre 1 e 100;
+                B. Imprima todos os múltiplos de 3 entre 1 e 100;
+
+             * */
             Atvd1 at = new Atvd1();
 
             Console.WriteLine("Numeros pares\n");
