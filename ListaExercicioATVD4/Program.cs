@@ -45,7 +45,7 @@ namespace ListaExercicioATVD4
 
             double valor = lojaSuprimentos.fatura.ValorFatura();
             Console.WriteLine();
-            Console.WriteLine("Fatura do item: R$: "+valor.ToString("F2", CultureInfo.InvariantCulture)+" Reais");
+            Console.WriteLine("Faturaaa do item: R$: "+valor.ToString("F2", CultureInfo.InvariantCulture)+" Reais");
 
 
  
